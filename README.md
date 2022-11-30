@@ -1,2 +1,2 @@
 # Calculator
-the simole calculator on python with graphics interface
+the simle calculator on python with graphics interface
